@@ -1,0 +1,19 @@
+# Data files (too large for git -- see README)
+data/*.pkl
+data/**/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
