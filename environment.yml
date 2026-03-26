@@ -1,7 +1,7 @@
 name: sic_dmd
 channels:
   - conda-forge
-  - defaults
+#  - defaults
 dependencies:
   - python=3.11
   - numpy
@@ -10,5 +10,9 @@ dependencies:
   - tqdm
   - dill
   - pip
+  - xarray
+  - pandas
+  - seaborn
+  - h5py
   - pip:
     - pydmd

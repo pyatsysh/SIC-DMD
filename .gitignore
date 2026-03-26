@@ -1,5 +1,6 @@
 # Data files (too large for git -- see README)
 data/*.pkl
+data/mrcosts fits/*
 
 # Python
 __pycache__/
@@ -16,3 +17,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
